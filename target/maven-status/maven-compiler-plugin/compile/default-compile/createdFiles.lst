@@ -1,0 +1,6 @@
+com\fsantana\docker_app\repository\UserRepository.class
+com\fsantana\docker_app\service\UserServiceImpl.class
+com\fsantana\docker_app\entity\User.class
+com\fsantana\docker_app\DespliegueConDockerApplication.class
+com\fsantana\docker_app\service\UserService.class
+com\fsantana\docker_app\controller\UserController.class
